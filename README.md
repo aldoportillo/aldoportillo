@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @aldoportillo<br>👀 I’m interested in software engineering<br>🌱 I’m currently learning React, NodeJS, MongoDB, Express and Mongoose<br>💞️ I’m looking to collaborate on any project that will challenge me and that I can learn from<br>⚡ Fun fact: I train MMA on my spare time<br>📫 Feel free to reach me at: aldoportillodev@gmail.com
+👋 Hi, I’m @aldoportillo<br>👀 I’m interested in software engineering<br>🌱 I’m currently working on data modeling<br>💞️ I’m looking to collaborate on any project that will challenge me and that I can learn from<br>⚡ Fun fact: I train MMA on my spare time<br>📫 Feel free to reach me at: aldoportillodev@gmail.com
 
 
 ## 🌐 Socials:
