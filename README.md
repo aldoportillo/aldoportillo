@@ -11,6 +11,11 @@
 # Blogs
 
 <!--START_SECTION:blog-->
+- [Authorization](https://dev.to/aldoportillo/authorization-mh5)
+- [CAP Theorem](https://dev.to/aldoportillo/cap-theorem-4ph5)
+- [Docker](https://dev.to/aldoportillo/docker-18n7)
+- [Live Reloading in Rails](https://dev.to/aldoportillo/live-reloading-in-rails-5g57)
+- [VSCode Extensions](https://dev.to/aldoportillo/vscode-extensions-309i)
 <!--END_SECTION:blog-->
 
 # 📈 Weekly Programming Breakdown
