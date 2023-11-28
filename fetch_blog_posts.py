@@ -1,7 +1,7 @@
 import requests
 
-def fetch_latest_posts(max_posts=5):
-    url = f"https://dev.to/api/articles?username=aldoportillo"
+def fetch_latest_posts(username, max_posts=5):
+    url = f"https://dev.to/api/articles?username={username}"
     response = requests.get(url)
     response.raise_for_status()
 
