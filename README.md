@@ -17,7 +17,7 @@
 - [Live Reloading in Rails](https://dev.to/aldoportillo/live-reloading-in-rails-5g57)
 - [VSCode Extensions](https://dev.to/aldoportillo/vscode-extensions-309i)
 <!--END_SECTION:blog-->
-[more blog posts](https://dev.to/aldoportillo)
+📘 [more blog posts](https://dev.to/aldoportillo)
 
 # 📈 Weekly Programming Breakdown
 
