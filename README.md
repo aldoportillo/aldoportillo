@@ -22,6 +22,77 @@
 # 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 108.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,125 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1821 commits        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+🌆 Daytime                5854 commits        ████████████████░░░░░░░░░   64.15 % 
+🌃 Evening                1197 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+🌙 Night                  253 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1229 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Tuesday                  1973 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Wednesday                1144 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Thursday                 2088 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Friday                   1233 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Saturday                 722 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Sunday                   736 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               31 repos            ███████████████░░░░░░░░░░   59.62 % 
+Ruby                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/11/2023 17:36:18 UTC
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
