@@ -9,7 +9,7 @@
       <td align="left">
         <h3>👋 Hi, I’m @aldoportillo</h3>
         <p>👀 I’m interested in software engineering<br>
-        🌱 I’m currently working on my personal portfolio<br>
+        🌱 I’m currently working on BoutBuddy. An innovative Rails application designed to revolutionize the way fighters are paired for bouts. Imagine Tinder's intuitive swipe feature, but tailored exclusively for matching combatants in an efficient and engaging manner<br>
         💞️ I’m looking to collaborate on any project that will challenge me and that I can learn from<br>
         ⚡ Fun fact: I train MMA on my spare time<br>
         📫 Feel free to reach me at: <a href="mailto:aldoportillodev@gmail.com">aldoportillodev@gmail.com</a></p>
