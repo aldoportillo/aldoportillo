@@ -1,14 +1,16 @@
-# 💫 About Me:
+# 💫 About Me
+
 👋 Hi, I’m @aldoportillo<br>👀 I’m interested in software engineering<br>🌱 I’m currently working on my personal portfolio<br>💞️ I’m looking to collaborate on any project that will challenge me and that I can learn from<br>⚡ Fun fact: I train MMA on my spare time<br>📫 Feel free to reach me at: aldoportillodev@gmail.com
 
+## 🌐 Socials
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/portillo.mma) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aldoportillodev) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-# 🖊️ Fresh Off the Press
+## 🖊️ Fresh Off the Press
 
 <!--START_SECTION:blog-->
 - [Authorization](https://dev.to/aldoportillo/authorization-mh5)
@@ -19,7 +21,7 @@
 <!--END_SECTION:blog-->
 📘 [more blog posts](https://dev.to/aldoportillo)
 
-# 📈 Weekly Programming Breakdown
+## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-58%20mins-blue)
@@ -28,7 +30,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                1825 commits        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
@@ -36,7 +38,8 @@
 🌃 Evening                1199 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 🌙 Night                  253 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
 Monday                   1232 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
@@ -48,8 +51,7 @@ Saturday                 722 commits         ██░░░░░░░░░�
 Sunday                   736 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Chicago
@@ -64,7 +66,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
 JavaScript               31 repos            ███████████████░░░░░░░░░░   59.62 % 
@@ -78,9 +80,9 @@ Python                   1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aldoportillo&theme=dark&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aldoportillo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Waka, GPRM and Dev.to-->
