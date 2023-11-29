@@ -74,13 +74,6 @@ EJS                      1 repo              ░░░░░░░░░░░�
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
-
-
  Last Updated on 29/11/2023 03:17:23 UTC
 <!--END_SECTION:waka-->
 
