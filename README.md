@@ -72,6 +72,20 @@
 <!--END_SECTION:blog-->
 📘 [more blog posts](https://dev.to/aldoportillo)
 
+## 🥃 Neat on the Rocks - Where Science Meets Mixology
+
+**"Neat on the Rocks"** is not just an app; it's my personal project born from a passion for mixology blended with the precision of science. It represents the intersection of convivial cocktail crafting and informed consumption.
+
+### My Vision Brought to Life
+
+- **Where Science Meets Mixology**: Each feature is a testament to meticulous research and a deep understanding of mixology.
+- **BAC Insights**: Estimate your alcohol intake with our Blood Alcohol Content (BAC) tracker.
+- **Nutrition in Every Sip**: Enjoy cocktails without compromising on your dietary goals thanks to our detailed Macronutrient Calculator.
+- **Perfect Mix, Every Time**: My Perfect Cocktail Calculator guarantees a delightful balance in every glass, ensuring a sublime cocktail experience.
+- **Curated Library**: Delve into my curated collection of cocktails, each with a unique twist to suit any palate.
+
+This is more than an app—it's a commitment to elevate the craft of cocktail creation. Join me on this exquisite journey at [Neat on the Rocks](https://www.neatonthe.rocks/).
+
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
