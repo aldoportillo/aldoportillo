@@ -88,48 +88,15 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-197-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2291 commits        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-🌆 Daytime                6996 commits        ████████████████░░░░░░░░░   64.66 % 
-🌃 Evening                1268 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-🌙 Night                  265 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1443 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Tuesday                  2383 commits        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-Wednesday                1304 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Thursday                 2451 commits        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Friday                   1550 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Saturday                 827 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Sunday                   862 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-ERB                      3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   43.40 % 
-Ruby                     3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.80 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 9 mins        █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 boutbuddy                7 hrs 13 mins       ██████████████████████░░░   88.51 % 
 aldoportillo             33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
@@ -153,7 +120,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2023 18:35:19 UTC
+ Last Updated on 04/12/2023 06:29:44 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
