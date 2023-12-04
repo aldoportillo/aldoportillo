@@ -90,7 +90,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-197-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-280-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -113,7 +113,14 @@ EJS                      1 repo              ░░░░░░░░░░░�
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
- Last Updated on 04/12/2023 06:29:44 UTC
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
+
+
+ Last Updated on 04/12/2023 18:37:54 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
