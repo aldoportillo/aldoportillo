@@ -9,7 +9,7 @@
       <td align="left">
         <h3>👋 Hi, I’m @aldoportillo</h3>
         <p>👀 I’m interested in software engineering<br>
-        🌱 I’m currently working on [BoutBuddy](https://github.com/aldoportillo/boutbuddy)<br>
+        🌱 I’m currently working on <a href="[mailto:aldoportillodev@gmail.com](https://github.com/aldoportillo/boutbuddy)">BoutBuddy</a><br>
         ⚡ Fun fact: I train MMA on my spare time<br>
         📫 Feel free to reach me at: <a href="mailto:aldoportillodev@gmail.com">aldoportillodev@gmail.com</a></p>
       </td>
