@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-boutbuddy                5 hrs 25 mins       ████████████████████░░░░░   79.76 % 
-BodyTrackPro             1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-ClosetSnap               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-dpi-pttl-025             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Workspace                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+boutbuddy                4 hrs 55 mins       █████████████░░░░░░░░░░░░   50.33 % 
+BodyTrackPro             4 hrs 37 mins       ████████████░░░░░░░░░░░░░   47.28 % 
+ClosetSnap               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+dpi-pttl-025             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Workspace                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2023 18:35:55 UTC
+ Last Updated on 17/12/2023 18:36:46 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
