@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -98,19 +98,18 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-BodyTrackPro             16 hrs 16 mins      █████████████████████░░░░   85.43 % 
-boutbuddy                2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-dpi-pttl-025             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+BodyTrackPro             16 hrs 24 mins      ███████████████████████░░   91.37 % 
+cv-application           1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               31 repos            ██████████████░░░░░░░░░░░   57.41 % 
-Ruby                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JavaScript               32 repos            ███████████████░░░░░░░░░░   58.18 % 
+Ruby                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
@@ -120,7 +119,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2023 18:36:21 UTC
+ Last Updated on 22/12/2023 18:36:19 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
