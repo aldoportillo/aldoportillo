@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,9 +98,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-BodyTrackPro             11 hrs 47 mins      █████████████████████░░░░   82.63 % 
-cv-application           1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-algoexpert               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+BodyTrackPro             3 hrs 11 mins       ██████████████░░░░░░░░░░░   56.24 % 
+cv-application           1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+algoexpert               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2023 18:37:01 UTC
+ Last Updated on 26/12/2023 18:36:49 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
