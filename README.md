@@ -98,9 +98,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-BodyTrackPro             3 hrs 11 mins       ██████████████░░░░░░░░░░░   56.24 % 
-cv-application           1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-algoexpert               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+cv-application           1 hr 36 mins        ███████████████░░░░░░░░░░   58.51 % 
+algoexpert               51 mins             ████████░░░░░░░░░░░░░░░░░   31.19 % 
+BodyTrackPro             17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2023 18:36:49 UTC
+ Last Updated on 27/12/2023 18:37:02 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
