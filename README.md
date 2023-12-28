@@ -90,7 +90,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
@@ -98,9 +98,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-cv-application           1 hr 36 mins        ███████████████░░░░░░░░░░   58.51 % 
-algoexpert               51 mins             ████████░░░░░░░░░░░░░░░░░   31.19 % 
-BodyTrackPro             17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+cv-application           1 hr 36 mins        ███████████████░░░░░░░░░░   61.92 % 
+algoexpert               51 mins             ████████░░░░░░░░░░░░░░░░░   33.00 % 
+BodyTrackPro             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2023 18:37:02 UTC
+ Last Updated on 28/12/2023 18:36:13 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
