@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -98,8 +98,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-algoexpert               1 hr 2 mins         ████████████████████████░   94.01 % 
-cv-application           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+system-design            3 hrs 47 mins       ███████████████████░░░░░░   77.29 % 
+algoexpert               1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+cv-application           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +120,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2023 18:36:00 UTC
+ Last Updated on 30/12/2023 18:35:57 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
