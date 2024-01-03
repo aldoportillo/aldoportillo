@@ -98,8 +98,8 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-system-design            5 hrs 10 mins       ████████████████████████░   96.54 % 
-algoexpert               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+system-design            7 hrs 41 mins       ████████████████████████░   97.64 % 
+algoexpert               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +119,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2024 18:37:35 UTC
+ Last Updated on 03/01/2024 18:37:27 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
