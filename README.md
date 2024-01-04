@@ -88,18 +88,21 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-system-design            7 hrs 41 mins       ████████████████████████░   97.64 % 
-algoexpert               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+system-design            7 hrs 41 mins       ██████████████░░░░░░░░░░░   57.17 % 
+notr-server              4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.97 % 
+NOTR-client              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+algoexpert               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+server                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +122,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2024 18:37:27 UTC
+ Last Updated on 04/01/2024 18:38:01 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
