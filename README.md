@@ -98,9 +98,10 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-Portfolio                3 hrs 49 mins       ████████████░░░░░░░░░░░░░   47.43 % 
-data-structures-algorithi3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.62 % 
-system-design            38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+fe_take_home_assignment_17 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.63 % 
+Portfolio                3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+data-structures-algorithi3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+system-design            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +121,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2024 18:38:39 UTC
+ Last Updated on 22/01/2024 18:40:17 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
