@@ -90,7 +90,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
@@ -98,11 +98,10 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-fe_take_home_assignment_17 hrs 29 mins       ██████████████░░░░░░░░░░░   56.15 % 
-data-structures-algorithi2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Portfolio                2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-VinoValley               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-BodyTrackPro             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+fe_take_home_assignment_17 hrs 29 mins       ██████████████████░░░░░░░   71.34 % 
+data-structures-algorithi2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+VinoValley               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+BodyTrackPro             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +121,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2024 18:38:15 UTC
+ Last Updated on 25/01/2024 18:40:16 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
