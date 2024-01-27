@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -98,10 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-fe_take_home_assignment_17 hrs 29 mins       ██████████████████░░░░░░░   71.34 % 
-data-structures-algorithi2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-VinoValley               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-BodyTrackPro             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+fe_take_home_assignment_17 hrs 29 mins       ██████████████████████░░░   86.44 % 
+boutbuddy                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+VinoValley               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+BodyTrackPro             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+data-structures-algorithi2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +122,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2024 18:37:33 UTC
+ Last Updated on 27/01/2024 18:36:52 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
