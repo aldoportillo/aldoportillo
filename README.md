@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-fe_take_home_assignment_17 hrs 29 mins       ██████████████████████░░░   86.44 % 
-boutbuddy                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-VinoValley               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-BodyTrackPro             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-data-structures-algorithi2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+boutbuddy                30 mins             █████████░░░░░░░░░░░░░░░░   36.89 % 
+VinoValley               20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+BodyTrackPro             15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+fe_take_home_assignment_113 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+data-structures-algorithi2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2024 18:35:53 UTC
+ Last Updated on 29/01/2024 18:35:49 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
