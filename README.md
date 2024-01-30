@@ -98,11 +98,8 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-boutbuddy                30 mins             █████████░░░░░░░░░░░░░░░░   36.89 % 
-VinoValley               20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-BodyTrackPro             15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-fe_take_home_assignment_113 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-data-structures-algorithi2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+boutbuddy                30 mins             ████████████████████████░   94.21 % 
+system-design            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +119,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2024 18:35:49 UTC
+ Last Updated on 30/01/2024 18:35:57 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
