@@ -8,7 +8,7 @@
       </td>
       <td align="left">
         <h3>👋 Hi, I’m @aldoportillo</h3>
-        <p>👀 I’m interested in software engineering<br>
+        <p>👀 I’m interested in system design<br>
         🌱 I’m currently working on WebGL</a><br>
         ⚡ Fun fact: I train MMA on my spare time<br>
         📫 Feel free to reach me at: <a href="mailto:aldoportillodev@gmail.com">aldoportillodev@gmail.com</a></p>
