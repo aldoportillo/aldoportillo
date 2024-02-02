@@ -88,21 +88,20 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-05-animations            41 mins             █████████░░░░░░░░░░░░░░░░   37.89 % 
-boutbuddy                30 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-03-first-threejs-project 26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-06-cameras               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-system-design            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+06-cameras               1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   41.68 % 
+94483081                 54 mins             ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+05-animations            41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+03-first-threejs-project 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +121,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2024 18:36:32 UTC
+ Last Updated on 02/02/2024 18:36:52 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
