@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-06-cameras               1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-09-debug-ui              1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-94483081                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-08-geometries            52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-07-fullscreen-and-resizin47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+06-cameras               1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+09-debug-ui              1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+94483081                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+08-geometries            52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+07-fullscreen-and-resizin47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2024 18:36:20 UTC
+ Last Updated on 05/02/2024 18:37:06 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
