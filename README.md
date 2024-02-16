@@ -88,9 +88,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-notes                    2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   40.57 % 
-12-3d-text               1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-huckleberry              1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-14-lights                30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-character-creator        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+notes                    2 hrs 59 mins       ████████████░░░░░░░░░░░░░   46.99 % 
+12-3d-text               1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+14-lights                30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+huckleberry              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+character-creator        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2024 18:37:43 UTC
+ Last Updated on 16/02/2024 18:36:11 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
