@@ -88,9 +88,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-notes                    2 hrs 47 mins       ████████████████░░░░░░░░░   65.03 % 
-character-creator        49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-NOTR-client              30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-tldraw-rails-template    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-TipTonic                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+notes                    2 hrs 44 mins       ████████████████░░░░░░░░░   64.24 % 
+NOTR-client              53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+character-creator        28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+tldraw-rails-template    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+mini-component-library   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2024 18:35:54 UTC
+ Last Updated on 22/02/2024 18:36:06 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
