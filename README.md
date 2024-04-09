@@ -88,31 +88,26 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2056%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-notes                    3 hrs 47 mins       ██████████████░░░░░░░░░░░   55.33 % 
-mini-component-library   1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-NOTR-client              54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-character-creator        27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-tldraw-rails-template    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+body-track-pro           1 hr 41 mins        ██████████████████░░░░░░░   73.41 % 
+lyrics-translate         36 mins             ███████░░░░░░░░░░░░░░░░░░   26.59 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               45 repos            ███████████████░░░░░░░░░░   61.64 % 
-Ruby                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JavaScript               49 repos            ███████████████░░░░░░░░░░   61.25 % 
+Ruby                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
@@ -122,7 +117,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2024 18:35:35 UTC
+ Last Updated on 09/04/2024 14:55:07 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
