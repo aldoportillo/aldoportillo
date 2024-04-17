@@ -63,11 +63,11 @@
 ## 🖊️ Fresh Off the Press
 
 <!--START_SECTION:blog-->
+- [Week 0: New NOTR Server -Migrating Data from MongoDB to PostgreSQL](https://dev.to/aldoportillo/week-0-new-notr-server-migrating-data-from-mongodb-to-postgresql-5ea2)
 - [Authorization](https://dev.to/aldoportillo/authorization-mh5)
 - [CAP Theorem](https://dev.to/aldoportillo/cap-theorem-4ph5)
 - [Docker](https://dev.to/aldoportillo/docker-18n7)
 - [Live Reloading in Rails](https://dev.to/aldoportillo/live-reloading-in-rails-5g57)
-- [VSCode Extensions](https://dev.to/aldoportillo/vscode-extensions-309i)
 <!--END_SECTION:blog-->
 📘 [more blog posts](https://dev.to/aldoportillo)
 
