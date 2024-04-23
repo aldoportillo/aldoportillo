@@ -88,9 +88,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-notr-server              12 hrs 5 mins       ████████████████░░░░░░░░░   65.79 % 
-distribution-management-s2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-NOTR-client-TS           1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-containerizing-express-ap1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-nextjs-dashboard         51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+notr-server              13 hrs 33 mins      █████████████████░░░░░░░░   67.46 % 
+distribution-management-s2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+NOTR-client-TS           1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+containerizing-express-ap1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+nextjs-dashboard         51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2024 18:37:29 UTC
+ Last Updated on 23/04/2024 18:37:39 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
