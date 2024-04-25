@@ -63,11 +63,11 @@
 ## 🖊️ Fresh Off the Press
 
 <!--START_SECTION:blog-->
+- [Week 1: New NOTR Server - Containerization and Data Storage](https://dev.to/aldoportillo/week-1-new-notr-server-containerization-and-data-storage-3n72)
 - [Week 0: New NOTR Server -Migrating Data from MongoDB to PostgreSQL](https://dev.to/aldoportillo/week-0-new-notr-server-migrating-data-from-mongodb-to-postgresql-5ea2)
 - [Authorization](https://dev.to/aldoportillo/authorization-mh5)
 - [CAP Theorem](https://dev.to/aldoportillo/cap-theorem-4ph5)
 - [Docker](https://dev.to/aldoportillo/docker-18n7)
-- [Live Reloading in Rails](https://dev.to/aldoportillo/live-reloading-in-rails-5g57)
 <!--END_SECTION:blog-->
 📘 [more blog posts](https://dev.to/aldoportillo)
 
