@@ -65,7 +65,7 @@
 <!--START_SECTION:blog-->
 - [Week 2: New NOTR Server - User Authentication and Middleware](https://dev.to/aldoportillo/week-2-new-notr-server-user-authentication-and-middleware-1ai0)
 - [Week 1: New NOTR Server - Containerization and Data Storage](https://dev.to/aldoportillo/week-1-new-notr-server-containerization-and-data-storage-3n72)
-- [Week 0: New NOTR Server -Migrating Data from MongoDB to PostgreSQL](https://dev.to/aldoportillo/week-0-new-notr-server-migrating-data-from-mongodb-to-postgresql-5ea2)
+- [Week 0: New NOTR Server - Migrating Data from MongoDB to PostgreSQL](https://dev.to/aldoportillo/week-0-new-notr-server-migrating-data-from-mongodb-to-postgresql-5ea2)
 - [Authorization](https://dev.to/aldoportillo/authorization-mh5)
 - [CAP Theorem](https://dev.to/aldoportillo/cap-theorem-4ph5)
 <!--END_SECTION:blog-->
