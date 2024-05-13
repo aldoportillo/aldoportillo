@@ -88,9 +88,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-Portfolio                6 hrs 55 mins       ██████████████████░░░░░░░   71.48 % 
-notr-server              1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-TAA-Logistics-Server     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-TAA-Logistics-Client     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-portfolio-depricated     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Portfolio                6 hrs 55 mins       ██████████████████░░░░░░░   73.83 % 
+notr-server              1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+TAA-Logistics-Server     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+TAA-Logistics-Client     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+portfolio-depricated     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2024 18:39:53 UTC
+ Last Updated on 13/05/2024 18:38:42 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
