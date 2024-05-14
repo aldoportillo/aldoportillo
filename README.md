@@ -92,17 +92,17 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-Portfolio                6 hrs 55 mins       ██████████████████░░░░░░░   73.83 % 
-notr-server              1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-TAA-Logistics-Server     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TAA-Logistics-Client     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-portfolio-depricated     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Portfolio                7 hrs 20 mins       █████████████████░░░░░░░░   68.89 % 
+notr-server              3 hrs               ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+portfolio-depricated     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+NOTR-client-TS           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+movie-web                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2024 18:38:42 UTC
+ Last Updated on 14/05/2024 18:39:14 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
