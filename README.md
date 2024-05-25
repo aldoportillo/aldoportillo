@@ -98,10 +98,10 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-NOTR-client-TS           13 hrs 37 mins      ████████████████░░░░░░░░░   63.26 % 
-notr-server              6 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
-portfolio-server         47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Portfolio                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+NOTR-client-TS           9 hrs 18 mins       ██████████████░░░░░░░░░░░   54.06 % 
+notr-server              6 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
+portfolio-server         47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Portfolio                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2024 18:39:32 UTC
+ Last Updated on 25/05/2024 18:38:19 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
