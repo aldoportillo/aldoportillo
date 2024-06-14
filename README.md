@@ -98,10 +98,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-portfolio-next           15 hrs 31 mins      ███████████████████████░░   93.45 % 
-TAA-Logistics-Client     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Portfolio                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-notr-server              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+portfolio-next           10 hrs 49 mins      ███████████████████████░░   93.41 % 
+TAA-Logistics-Client     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+notr-server              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +120,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 18:41:38 UTC
+ Last Updated on 14/06/2024 18:43:11 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
