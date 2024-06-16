@@ -88,6 +88,8 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
@@ -96,18 +98,20 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-portfolio-next           6 hrs 25 mins       ██████████████████████░░░   88.89 % 
-TAA-Logistics-Client     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+portfolio-next           2 hrs 22 mins       ████████████████░░░░░░░░░   65.04 % 
+TAA-Logistics-Client     48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+milc                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+notr-server              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               51 repos            ████████████████░░░░░░░░░   62.20 % 
-Ruby                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JavaScript               51 repos            ███████████████░░░░░░░░░░   61.45 % 
+Ruby                     14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
 
@@ -117,7 +121,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 18:41:58 UTC
+ Last Updated on 16/06/2024 18:40:26 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
