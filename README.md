@@ -92,15 +92,16 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-notr-native              16 hrs 6 mins       ██████████████████████░░░   86.11 % 
-notr-server              2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-NOTR-client              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+notr-native              14 hrs 45 mins      ███████████████████████░░   90.43 % 
+notr-server              1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+NOTR-client              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+leifjansberg             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +121,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2024 18:43:12 UTC
+ Last Updated on 11/07/2024 18:42:06 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
