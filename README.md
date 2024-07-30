@@ -92,15 +92,17 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-notr-native              5 hrs 19 mins       █████████████████░░░░░░░░   67.71 % 
-notr-server              2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-react-native-sdk-demo    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+notr-native-0            5 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   39.24 % 
+notr-native              5 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   39.17 % 
+notr-server              2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+react-native-sdk-demo    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+notrNative               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +122,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2024 18:42:50 UTC
+ Last Updated on 30/07/2024 18:43:03 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
