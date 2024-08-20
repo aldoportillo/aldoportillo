@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-notr-server              4 hrs 20 mins       ████████████████░░░░░░░░░   65.36 % 
-TAA-Logistics-Server     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-sinatra-omnicalc-3-dpi   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-boutbuddy                30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-notr-native              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+notr-server              4 hrs 19 mins       █████████████░░░░░░░░░░░░   51.54 % 
+final-project-scores     2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+TAA-Logistics-Server     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+sinatra-omnicalc-3-dpi   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+notr-native              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2024 18:47:17 UTC
+ Last Updated on 20/08/2024 18:44:49 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
