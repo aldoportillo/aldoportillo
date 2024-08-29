@@ -88,31 +88,31 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-ucl                      2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Recipe-Ripper            2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-notes                    2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-erflow-industrial        2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-hobby-share              1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+city-finder-web-app      3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+ucl                      2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Recipe-Ripper            2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+notes                    2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+erflow-industrial        2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               52 repos            █████████████░░░░░░░░░░░░   53.61 % 
-Ruby                     25 repos            ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+JavaScript               50 repos            █████████████░░░░░░░░░░░░   52.08 % 
+Ruby                     25 repos            ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+HTML                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
@@ -122,7 +122,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2024 18:50:17 UTC
+ Last Updated on 29/08/2024 18:47:30 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
