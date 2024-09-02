@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-city-finder-web-app      2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Recipe-Ripper            2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-notes                    2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-final-project-scores     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-hobby-share              1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+city-finder-web-app      2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Recipe-Ripper            2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+notes                    2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+final-project-scores     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+hobby-share              1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2024 18:46:27 UTC
+ Last Updated on 02/09/2024 18:47:19 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
