@@ -92,17 +92,17 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-city-finder-web-app      2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Recipe-Ripper            2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-notes                    2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-final-project-scores     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-hobby-share              1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+city-finder-web-app      2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.56 % 
+notes                    2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+final-project-scores     1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+we-dashboard             53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+notr-server              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2024 18:47:19 UTC
+ Last Updated on 03/09/2024 18:48:04 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
