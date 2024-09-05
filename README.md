@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-city-finder-web-app      2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.57 % 
-NOTR-client              1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-final-project-scores     1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-we-dashboard             53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-notr-server              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+NOTR-client              2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+portfolio-next           2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+reverse-a-linked-list    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+we-dashboard             58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+rubber-ducky-cli         30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2024 18:50:45 UTC
+ Last Updated on 05/09/2024 18:48:08 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
