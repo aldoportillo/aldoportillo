@@ -63,11 +63,11 @@
 ## 🖊️ Fresh Off the Press
 
 <!--START_SECTION:blog-->
+- [Load Balancer Algorithms](https://dev.to/aldoportillo/load-balancer-algorithms-2kbm)
+- [Fetch External APIs in Next.js](https://dev.to/aldoportillo/fetch-external-apis-in-nextjs-3gf7)
 - [Deploying in AWS - Week 3/4: New NOTR Server](https://dev.to/aldoportillo/deploying-in-aws-week-34-new-notr-server-5b92)
 - [User Authentication and Middleware - Week 2: New NOTR Server](https://dev.to/aldoportillo/week-2-new-notr-server-user-authentication-and-middleware-1ai0)
 - [Containerization and Data Storage - Week 1: New NOTR Server](https://dev.to/aldoportillo/week-1-new-notr-server-containerization-and-data-storage-3n72)
-- [Migrating Data from MongoDB to PostgreSQL - Week 0: New NOTR Server](https://dev.to/aldoportillo/week-0-new-notr-server-migrating-data-from-mongodb-to-postgresql-5ea2)
-- [Authorization](https://dev.to/aldoportillo/authorization-mh5)
 <!--END_SECTION:blog-->
 📘 [more blog posts](https://dev.to/aldoportillo)
 
