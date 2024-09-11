@@ -88,9 +88,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             5 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.69 % 
-NOTR-client              3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-reverse-a-linked-list    2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-portfolio-next           2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-minitest                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+NOTR-client              8 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   41.69 % 
+we-dashboard             6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.19 % 
+reverse-a-linked-list    2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+portfolio-next           2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+notr-server              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2024 18:50:11 UTC
+ Last Updated on 11/09/2024 18:51:48 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
