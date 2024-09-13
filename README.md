@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-NOTR-client              8 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.56 % 
-we-dashboard             6 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.19 % 
-reverse-a-linked-list    1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-notr-server              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-notr-native              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+NOTR-client              8 hrs 51 mins       █████████████░░░░░░░░░░░░   51.28 % 
+we-dashboard             3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+playlist                 2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+reverse-a-linked-list    1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+notr-server              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,9 +110,9 @@ notr-native              1 min               ░░░░░░░░░░░�
 ```text
 JavaScript               50 repos            █████████████░░░░░░░░░░░░   51.02 % 
 Ruby                     26 repos            ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-HTML                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
 Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
@@ -122,7 +122,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2024 18:49:21 UTC
+ Last Updated on 13/09/2024 18:51:56 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
