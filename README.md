@@ -88,20 +88,21 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-apply-ai                 2 hrs 38 mins       ████████████░░░░░░░░░░░░░   46.24 % 
-notr-server              2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
-we-dashboard             48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-NOTR-client              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+NOTR-client              3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.40 % 
+apply-ai                 2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+notr-server              2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+we-dashboard             48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+portfolio-next           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +122,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2024 18:47:25 UTC
+ Last Updated on 23/09/2024 18:49:36 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
