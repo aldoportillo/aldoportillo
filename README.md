@@ -92,17 +92,17 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             9 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.92 % 
-NOTR-client              3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-shortcuts-wallpaper      3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-notr-native              1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-setup-your-calendar      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+we-dashboard             9 hrs 9 mins        ███████████████░░░░░░░░░░   60.92 % 
+shortcuts-wallpaper      3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+notr-native              1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+setup-your-calendar      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+NOTR-client              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2024 18:47:59 UTC
+ Last Updated on 30/09/2024 18:52:46 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
