@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-516%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             12 hrs 30 mins      ███████████████████░░░░░░   76.95 % 
-notr-native              1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-TED-Demo                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-notr-server              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-NOTR-client              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+we-dashboard             14 hrs 57 mins      ██████████████████████░░░   89.58 % 
+TED-Demo                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+notr-native              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+BodyTrackPro             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+MentorshipPlatform       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2024 18:49:49 UTC
+ Last Updated on 12/10/2024 18:51:51 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
