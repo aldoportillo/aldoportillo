@@ -98,11 +98,10 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             14 hrs 57 mins      ██████████████████████░░░   89.33 % 
-TED-Demo                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-notr-native              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-BodyTrackPro             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-MentorshipPlatform       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+we-dashboard             11 hrs 15 mins      ████████████████████░░░░░   79.23 % 
+reverse-a-linked-list    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+TED-Demo                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+notr-native              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +121,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2024 18:52:01 UTC
+ Last Updated on 15/10/2024 18:50:43 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
