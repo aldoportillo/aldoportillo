@@ -88,9 +88,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-519%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.0%20million%20lines%20of%20code-blue)
 
@@ -98,20 +98,21 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             11 hrs 15 mins      ████████████████████░░░░░   79.23 % 
-reverse-a-linked-list    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-TED-Demo                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-notr-native              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+we-dashboard             7 hrs 54 mins       ██████████████░░░░░░░░░░░   56.77 % 
+reverse-a-linked-list    2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+developer-type-test      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+TED-Demo                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+notr-native              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               50 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-Ruby                     27 repos            ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JavaScript               50 repos            ████████████░░░░░░░░░░░░░   49.50 % 
+Ruby                     27 repos            ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+HTML                     13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 
@@ -121,7 +122,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2024 18:50:43 UTC
+ Last Updated on 16/10/2024 18:51:35 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
