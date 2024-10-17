@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-524%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             7 hrs 54 mins       ██████████████░░░░░░░░░░░   56.77 % 
-reverse-a-linked-list    2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-developer-type-test      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-TED-Demo                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-notr-native              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+we-dashboard             7 hrs 35 mins       ██████████████░░░░░░░░░░░   56.26 % 
+reverse-a-linked-list    2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+developer-type-test      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+TED-Demo                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+portfolio-next           21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2024 18:51:35 UTC
+ Last Updated on 17/10/2024 18:51:57 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
