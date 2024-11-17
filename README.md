@@ -88,9 +88,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
 
@@ -98,10 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             3 hrs 1 min         ██████████████░░░░░░░░░░░   54.86 % 
-notr-server              2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.03 % 
-govend_event             22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-NOTR-client              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+notr-server              4 hrs 47 mins       ████████████████░░░░░░░░░   63.04 % 
+we-dashboard             2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
+govend_event             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+NOTR-client              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TED-Demo                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +122,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2024 18:49:37 UTC
+ Last Updated on 17/11/2024 18:49:30 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
