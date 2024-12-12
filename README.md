@@ -88,20 +88,31 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-638%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+notr-native              5 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.91 % 
+final-project-scores     3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+notr-server              2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+tester-tracker-sephora   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+portfolio-next           57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               50 repos            ████████████░░░░░░░░░░░░░   47.17 % 
-Ruby                     29 repos            ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-HTML                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+JavaScript               50 repos            ████████████░░░░░░░░░░░░░   46.73 % 
+Ruby                     30 repos            ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+HTML                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 
 
@@ -111,7 +122,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2024 18:56:16 UTC
+ Last Updated on 12/12/2024 19:02:27 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
