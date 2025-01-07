@@ -98,8 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-reverse-a-linked-list    2 hrs 28 mins       ████████████████████████░   97.35 % 
-NOTR-client              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+reverse-a-linked-list    2 hrs 28 mins       ████████████░░░░░░░░░░░░░   46.62 % 
+we-dashboard             2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   44.62 % 
+photogram-ajax           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+photogram-industrial     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+NOTR-client              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +122,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2025 18:57:13 UTC
+ Last Updated on 07/01/2025 18:56:33 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
