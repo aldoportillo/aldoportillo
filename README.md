@@ -23,9 +23,6 @@
   <a href="https://twitter.com/aldoportillodev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>
 </p>
 
-<h2>Wired In Playlist 🎶</h2>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2Nct7cXHNSIUpqmoSqKjZd?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <h2 align="">💻 Tech Stack</h2>
 <p align="center">
   <!-- Languages -->
