@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-portfolio-next           6 hrs 57 mins       ███████████░░░░░░░░░░░░░░   44.34 % 
-we-dashboard             6 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.83 % 
-reverse-a-linked-list    2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-photogram-ajax           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-photogram-industrial     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+portfolio-next           7 hrs               █████████████░░░░░░░░░░░░   53.99 % 
+we-dashboard             3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+reverse-a-linked-list    2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+aldoportillo             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+photogram-ajax           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2025 18:57:07 UTC
+ Last Updated on 14/01/2025 18:59:56 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
