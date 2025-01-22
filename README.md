@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-todo-list-cli            1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-technical-interview      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-TCG-Deck-Simulator-CLI-Pr53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-sample-technical-intervie48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+we-dashboard             2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.60 % 
+technical-interview      1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+TCG-Deck-Simulator-CLI-Pr53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+sample-technical-intervie48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+wadtsp                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2025 18:56:22 UTC
+ Last Updated on 22/01/2025 18:57:14 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
