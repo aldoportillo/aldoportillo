@@ -88,9 +88,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-692%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-692%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.60 % 
-technical-interview      1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-TCG-Deck-Simulator-CLI-Pr53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-sample-technical-intervie48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-wadtsp                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+we-dashboard             2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.73 % 
+technical-interview      1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+sample-technical-intervie48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+wadtsp                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+reverse-a-linked-list    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2025 18:57:14 UTC
+ Last Updated on 23/01/2025 18:56:35 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
