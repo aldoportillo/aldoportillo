@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-data-structures-algorithi1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-rubber-ducky-cli         1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-notes                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-reverse-a-linked-list    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+we-dashboard             1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   31.80 % 
+data-structures-algorithi1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+rubber-ducky-cli         1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+notes                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+reverse-a-linked-list    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2025 18:55:59 UTC
+ Last Updated on 29/01/2025 18:55:28 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
