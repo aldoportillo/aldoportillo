@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-701%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,11 +108,11 @@ portfolio-next           4 mins              ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               45 repos            ███████████░░░░░░░░░░░░░░   42.45 % 
-Ruby                     36 repos            ████████░░░░░░░░░░░░░░░░░   33.96 % 
-HTML                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JavaScript               45 repos            ███████████░░░░░░░░░░░░░░   42.06 % 
+Ruby                     37 repos            █████████░░░░░░░░░░░░░░░░   34.58 % 
+HTML                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 
 
@@ -122,7 +122,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2025 18:55:51 UTC
+ Last Updated on 31/01/2025 18:55:07 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
