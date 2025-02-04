@@ -92,16 +92,16 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             8 hrs 4 mins        ██████████████████████░░░   86.73 % 
-pokedex                  1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-bropilot                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-portfolio-next           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+we-dashboard             8 hrs 30 mins       █████████████████████░░░░   83.73 % 
+pokedex                  1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+portfolio-next           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+bropilot                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2025 18:56:10 UTC
+ Last Updated on 04/02/2025 18:55:36 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
