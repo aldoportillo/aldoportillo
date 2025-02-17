@@ -98,10 +98,10 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-technical-interview-2025-4 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.88 % 
-we-dashboard             4 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.82 % 
-bropilot                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-notr-native              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+technical-interview-2025-4 hrs 20 mins       ███████████░░░░░░░░░░░░░░   45.86 % 
+we-dashboard             4 hrs 20 mins       ███████████░░░░░░░░░░░░░░   45.80 % 
+technical-interview-2025-40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+bropilot                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2025 18:57:35 UTC
+ Last Updated on 17/02/2025 18:59:29 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
