@@ -88,31 +88,31 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             6 hrs 43 mins       ██████████████████░░░░░░░   70.86 % 
-bropilot                 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-technical-interview-2025-55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-technical-interview-2025-40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-data-structures-algorithi3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+we-dashboard             5 hrs 41 mins       █████████████████░░░░░░░░   66.23 % 
+apply-ai                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+bropilot                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+technical-interview-2025-40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+data-structures-algorithi3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               45 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
-Ruby                     37 repos            █████████░░░░░░░░░░░░░░░░   34.26 % 
-HTML                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Ruby                     37 repos            ████████░░░░░░░░░░░░░░░░░   33.94 % 
+HTML                     14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 
@@ -122,7 +122,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2025 19:02:03 UTC
+ Last Updated on 20/02/2025 19:00:51 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
