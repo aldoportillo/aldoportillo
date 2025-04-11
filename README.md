@@ -98,10 +98,10 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-we-dashboard             6 hrs 10 mins       ████████████░░░░░░░░░░░░░   49.37 % 
-portfolio-next           3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-blog-active-record       2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-active_record_lesson     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+we-dashboard             5 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.37 % 
+portfolio-next           3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+blog-active-record       2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+active_record_lesson     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2025 18:57:49 UTC
+ Last Updated on 11/04/2025 18:58:01 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
