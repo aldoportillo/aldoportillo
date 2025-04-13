@@ -88,9 +88,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.5%20million%20lines%20of%20code-blue)
 
@@ -98,10 +98,10 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-portfolio-next           3 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.97 % 
-we-dashboard             3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   34.80 % 
-blog-active-record       2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-active_record_lesson     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+portfolio-next           3 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.88 % 
+blog-active-record       2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.96 % 
+we-dashboard             2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+active_record_lesson     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2025 18:55:07 UTC
+ Last Updated on 13/04/2025 18:57:25 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
