@@ -92,22 +92,22 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-notr-native              5 hrs 57 mins       █████████████████████░░░░   82.34 % 
-notr-server              1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+notr-native              5 hrs 38 mins       ████████████████████░░░░░   81.54 % 
+notr-server              1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-Ruby                     37 repos            ████████░░░░░░░░░░░░░░░░░   32.46 % 
-HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Ruby                     36 repos            ████████░░░░░░░░░░░░░░░░░   31.86 % 
+HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
@@ -119,7 +119,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 19:00:04 UTC
+ Last Updated on 30/05/2025 19:02:10 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
