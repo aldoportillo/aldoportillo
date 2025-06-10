@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,17 +98,18 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-notr-server              8 hrs 19 mins       ███████████████████░░░░░░   76.03 % 
-cocktail-compviz         2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-notr-native              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+notr-server              7 hrs 13 mins       ████████████████░░░░░░░░░   63.87 % 
+cocktail-compviz         2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+TAA-Logistics-Server     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+notr-native              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-Ruby                     37 repos            ████████░░░░░░░░░░░░░░░░░   32.46 % 
-HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Ruby                     36 repos            ████████░░░░░░░░░░░░░░░░░   31.86 % 
+HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
@@ -120,7 +121,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2025 18:59:49 UTC
+ Last Updated on 10/06/2025 19:01:36 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
