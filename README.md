@@ -98,10 +98,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-notr-server              5 hrs 13 mins       ██████████████░░░░░░░░░░░   56.13 % 
-cocktail-compviz         2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-TAA-Logistics-Server     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-notr-native              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+notr-server              4 hrs 8 mins        ██████████████████░░░░░░░   71.38 % 
+TAA-Logistics-Server     1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+notr-native              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +120,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2025 19:01:35 UTC
+ Last Updated on 12/06/2025 19:01:21 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
