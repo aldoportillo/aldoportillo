@@ -98,7 +98,8 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-TAA-Logistics-Server     1 hr 23 mins        █████████████████████████   100.00 % 
+notr-server              15 mins             ████████████████████████░   94.79 % 
+notr-native              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +119,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2025 19:02:08 UTC
+ Last Updated on 24/06/2025 19:02:10 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
