@@ -98,10 +98,10 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-we-are-dating-the-same-pe11 hrs 8 mins       ███████████████░░░░░░░░░░   58.72 % 
-notr-native              3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-notr-server              3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-person-generator         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+we-are-dating-the-same-pe11 hrs 49 mins      ██████████████████░░░░░░░   70.42 % 
+notr-native              2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+notr-server              2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+person-generator         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2025 18:58:10 UTC
+ Last Updated on 07/07/2025 19:01:59 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
