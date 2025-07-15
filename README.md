@@ -88,29 +88,30 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-952%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-we-are-dating-the-same-pe10 hrs 42 mins      █████████████████████████   99.94 % 
-TAA-Logistics-Server     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+we-are-dating-the-same-pe11 hrs 56 mins      █████████████████░░░░░░░░   66.81 % 
+wadtsp                   5 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.15 % 
+TAA-Logistics-Server     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 notr-server              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-Ruby                     37 repos            ████████░░░░░░░░░░░░░░░░░   32.46 % 
-HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Ruby                     37 repos            ████████░░░░░░░░░░░░░░░░░   32.17 % 
+HTML                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 
@@ -120,7 +121,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 19:04:21 UTC
+ Last Updated on 15/07/2025 19:04:59 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
