@@ -98,8 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-wadtsp                   7 hrs 4 mins        ████████████████░░░░░░░░░   63.84 % 
-we-are-dating-the-same-pe4 hrs               █████████░░░░░░░░░░░░░░░░   36.16 % 
+flood-visualizer         52 mins             ██████████████░░░░░░░░░░░   54.28 % 
+notr-native              31 mins             ████████░░░░░░░░░░░░░░░░░   32.64 % 
+tifconverter             11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+NOTR-client              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+wadtsp                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +122,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2025 19:04:00 UTC
+ Last Updated on 23/07/2025 19:03:54 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
