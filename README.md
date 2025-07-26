@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-965%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-flood-simulator          58 mins             █████████░░░░░░░░░░░░░░░░   37.77 % 
-flood-visualizer         52 mins             ████████░░░░░░░░░░░░░░░░░   33.84 % 
-notr-native              31 mins             █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-tifconverter             11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-NOTR-client              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+flood-simulator          1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   37.85 % 
+flood-simulator-service  54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+flood-visualizer         52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+notr-native              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+tifconverter             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2025 19:03:48 UTC
+ Last Updated on 26/07/2025 19:01:37 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
