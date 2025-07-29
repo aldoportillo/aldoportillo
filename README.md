@@ -88,21 +88,20 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-flood-simulator          1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   32.09 % 
-flood-simulator-service  1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-flood-visualizer         52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-notr-native              39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-notr-server              33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+flood-simulator          2 hrs 56 mins       ██████████████░░░░░░░░░░░   54.27 % 
+flood-simulator-service  1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   32.20 % 
+notr-server              33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+notr-native              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +121,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2025 19:04:41 UTC
+ Last Updated on 29/07/2025 19:05:47 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
