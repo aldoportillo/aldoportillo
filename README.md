@@ -88,6 +88,8 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%2015%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.2%20million%20lines%20of%20code-blue)
@@ -96,10 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-flood-simulator          3 hrs               ██████████████░░░░░░░░░░░   54.81 % 
-flood-simulator-service  1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   31.82 % 
-notr-server              33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-notr-native              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+flood-simulator          3 hrs               ████████████░░░░░░░░░░░░░   49.75 % 
+flood-simulator-service  2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.73 % 
+notr-server              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+notr-native              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+jillianberardino         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +122,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2025 19:06:10 UTC
+ Last Updated on 31/07/2025 19:09:50 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
