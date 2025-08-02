@@ -98,11 +98,11 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-flood-simulator-service  2 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.94 % 
-flood-simulator          2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.13 % 
-notr-server              33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-notr-native              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-jillianberardino         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+jillianberardino         1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   30.56 % 
+flood-simulator-service  1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+flood-simulator          1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+notr-server              33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+notr-native              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +122,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2025 19:05:14 UTC
+ Last Updated on 02/08/2025 19:02:22 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
