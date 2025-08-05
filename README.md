@@ -98,9 +98,9 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-jillianberardino         1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   37.01 % 
-flood-simulator          1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   32.10 % 
-flood-simulator-service  1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   30.89 % 
+jillianberardino         1 hr 39 mins        ███████████████░░░░░░░░░░   59.42 % 
+flood-simulator-service  45 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+flood-simulator          22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 19:04:44 UTC
+ Last Updated on 05/08/2025 19:05:54 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
