@@ -88,19 +88,19 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-972%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-flood-simulator          1 hr 34 mins        █████████████████████████   99.21 % 
-flood-simulator-service  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-TAA-Logistics-Server     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+flood-simulator          1 hr 47 mins        █████████████████████████   99.30 % 
+flood-simulator-service  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+TAA-Logistics-Server     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2025 19:04:56 UTC
+ Last Updated on 13/08/2025 19:04:35 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
