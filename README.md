@@ -88,9 +88,20 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C005%20hrs%2039%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.0%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+NOTR-client              26 mins             ████████████████████░░░░░   80.48 % 
+notr-native              6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+notr-server              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -109,7 +120,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2025 18:58:12 UTC
+ Last Updated on 05/10/2025 19:04:04 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
