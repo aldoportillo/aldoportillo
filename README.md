@@ -98,7 +98,8 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+portfolio-next           36 mins             ██████████████████████░░░   88.08 % 
+ftoast                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +119,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2025 19:03:24 UTC
+ Last Updated on 08/10/2025 19:03:43 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
