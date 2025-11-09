@@ -98,7 +98,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-notr-native              11 mins             █████████████████████████   100.00 % 
+notr-native              6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +118,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2025 19:00:46 UTC
+ Last Updated on 09/11/2025 19:04:49 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
