@@ -88,7 +88,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 ## 📈 Weekly Programming Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,11 +104,11 @@ TAA-Logistics-Server     36 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               46 repos            ██████████░░░░░░░░░░░░░░░   41.82 % 
-Ruby                     33 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
-HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JavaScript               46 repos            ███████████░░░░░░░░░░░░░░   42.20 % 
+Ruby                     32 repos            ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+HTML                     15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 
@@ -118,7 +118,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 23/01/2026 19:01:01 UTC
+ Last Updated on 24/01/2026 19:02:03 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
