@@ -98,7 +98,8 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ```text
 🐱‍💻 Projects: 
-TAA-Logistics-Server     33 mins             █████████████████████████   100.00 % 
+TAA-Logistics-Server     33 mins             ████████████████░░░░░░░░░   64.19 % 
+TAA-Logistics-Client     18 mins             █████████░░░░░░░░░░░░░░░░   35.81 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +119,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2026 19:04:21 UTC
+ Last Updated on 19/02/2026 19:03:43 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
