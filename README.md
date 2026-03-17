@@ -93,7 +93,7 @@ This is more than an app—it's a commitment to elevate the craft of cocktail cr
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.67%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.66%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -108,7 +108,7 @@ No Activity Tracked This Week
 JavaScript               46 repos            ███████████░░░░░░░░░░░░░░   42.99 % 
 Ruby                     31 repos            ███████░░░░░░░░░░░░░░░░░░   28.97 % 
 HTML                     15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
@@ -119,7 +119,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aldoportillo/aldoportillo/main/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2026 19:04:35 UTC
+ Last Updated on 17/03/2026 19:05:20 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
