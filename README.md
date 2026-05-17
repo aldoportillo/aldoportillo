@@ -2,7 +2,7 @@
 
 [IOS CI Setup](https://github.com/aldoportillo/ios-ci-setup): A script to automate the process of getting the required secrets to create an IOS CI/CD Pipeline
 
-# 💫 About Me
+# About Me
 
 <div align="center">
   <table>
@@ -11,23 +11,16 @@
         <img src="./assets/coding.svg" width="300" alt="Aldo Portillo Coding" />
       </td>
       <td align="left">
-        <h3>👋 Hi, I’m @aldoportillo</h3>
-        <p>👀 I’m interested in system design<br>
-        🌱 I’m currently working on WebGL</a><br>
-        ⚡ Fun fact: I train MMA on my spare time<br>
-        📫 Feel free to reach me at: <a href="mailto:aldoportillodev@gmail.com">aldoportillodev@gmail.com</a></p>
+        <h3>Hi, I’m @aldoportillo</h3>
+        <p>I’m interested in system design<br>
+         I’m currently working on WebGL</a><br>
+         Fun fact: I train MMA on my spare time<br>
       </td>
     </tr>
   </table>
 </div>
 
-<h2 align="">🌐 Socials</h2>
-<p align="">
-  <a href="https://instagram.com/portillo.mma"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/aldoportillodev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>
-</p>
-
-<h2 align="">💻 Tech Stack</h2>
+<h2 align="">Tech Stack</h2>
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -65,7 +58,7 @@
 </p>
 
 
-## 🖊️ Fresh Off the Press
+## Fresh Off the Press
 
 <!--START_SECTION:blog-->
 - [Load Balancer Algorithms](https://dev.to/aldoportillo/load-balancer-algorithms-2kbm)
@@ -76,7 +69,7 @@
 <!--END_SECTION:blog-->
 📘 [more blog posts](https://dev.to/aldoportillo)
 
-## 🥃 Neat on the Rocks - Where Science Meets Mixology
+## Neat on the Rocks - Where Science Meets Mixology
 
 **"Neat on the Rocks"** is not just an app; it's my personal project born from a passion for mixology blended with the precision of science. It represents the intersection of convivial cocktail crafting and informed consumption.
 
@@ -89,22 +82,6 @@
 - **Curated Library**: Delve into my curated collection of cocktails, each with a unique twist to suit any palate.
 
 This is more than an app—it's a commitment to elevate the craft of cocktail creation. Join me on this exquisite journey at [Neat on the Rocks](https://www.neatonthe.rocks/).
-
-## 📈 Weekly Programming Breakdown
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2059%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.80%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -132,4 +109,3 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 ---
 
-<!-- Waka, GPRM and Dev.to-->
