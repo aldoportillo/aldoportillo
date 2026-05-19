@@ -1,6 +1,7 @@
 # My Open Source Projects
 
 [IOS CI Setup](https://github.com/aldoportillo/ios-ci-setup): A script to automate the process of getting the required secrets to create an IOS CI/CD Pipeline
+[Github Multi Account Setup](https://github.com/aldoportillo/multi-account-github-setup): A script to automate the process of setting multiple github users locally.
 
 # About Me
 
